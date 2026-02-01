@@ -1,0 +1,62 @@
+[
+    {
+      "trainNo": 101,
+      "name": "Northern Express",
+      "stations": ["DEL", "PNP", "AMB", "CDG", "LDH"]
+    },
+    {
+      "trainNo": 102,
+      "name": "Capital Superfast",
+      "stations": ["DEL", "GZB", "ALD", "CNB"]
+    },
+    {
+      "trainNo": 103,
+      "name": "Eastern Mail",
+      "stations": ["HWH", "ASN", "DHN", "GMO", "PNBE"]
+    },
+    {
+      "trainNo": 104,
+      "name": "Western Express",
+      "stations": ["BCT", "ST", "BRC", "RTM", "JP"]
+    },
+    {
+      "trainNo": 105,
+      "name": "Southern Star",
+      "stations": ["MAS", "KPD", "SA", "ED", "CBE"]
+    },
+    {
+      "trainNo": 106,
+      "name": "Deccan Queen",
+      "stations": ["PUNE", "LNL", "KYN", "CSMT"]
+    },
+    {
+      "trainNo": 107,
+      "name": "Konkan Runner",
+      "stations": ["CSMT", "PNVL", "RN", "MAO"]
+    },
+    {
+      "trainNo": 108,
+      "name": "Central Link",
+      "stations": ["BPL", "ET", "NGP", "WR"]
+    },
+    {
+      "trainNo": 109,
+      "name": "Himalayan Express",
+      "stations": ["UMB", "CDG", "KLK"]
+    },
+    {
+      "trainNo": 110,
+      "name": "Ganga Express",
+      "stations": ["DEL", "ALD", "MGS", "PNBE"]
+    },
+    {
+      "trainNo": 12820,
+      "name": "Purushottom Express",
+      "stations": ["DEL", "KNP", "ALH", "GAYA","TATA","GTS"]
+    },
+  {
+    "trainNo": 12821,
+    "name": "Rajdhani Express",
+    "stations": ["DEL", "KNP", "ALH", "GAYA","TATA"]
+  }
+  ]
